@@ -6,4 +6,4 @@ usage
 - ./chat others ip addr
 - type "quit" to quit the chatroom
 
-<img src="/img/showcase.jpg">
+<img src="/img/showcase.gif">
